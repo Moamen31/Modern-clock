@@ -155,19 +155,19 @@ body {
 
 .clock .hand.hour {
   width: 8px;
-  height: 30%;
+  height: 28%;
   background-color: #fc125f;
 }
 
 .clock .hand.minute {
   width: 7px;
-  height: 36%;
+  height: 38%;
   background-color: #2fdce7;
 }
 
 .clock .hand.second {
   width: 3px;
-  height: 39%;
+  height: 40%;
   background-color: #a9c397;
 }
 
